@@ -82,8 +82,8 @@
     "1606221230-clear-the-franz-cache": "Limpar o Cache do Franz",
     "1606221230-show-unread-message-badge-for-all-new-messages": "Exibir ícone de mensagem não lida para todas as novas mensagens",
     "1606221230-you-will-be-notified-about-all-new-messages-in-a-channel-not-just-username-channel-here": "Você será notificado de todas as novas mensagens de um canal, não apenas @nomedeusuario, @channel, @here, ...",
-    "1607011340-reload-service": "Reload Service",
+    "1607011340-reload-service": "Recarregar Serviço",
     "1607041400-app": "App",
-    "1607041500-general": "General",
-    "1607041400-leave-franz-running-in-the-notification-area-when-window-is-closed": "Leave Franz running in the notification area when window is closed"
+    "1607041500-general": "Geral",
+    "1607041400-leave-franz-running-in-the-notification-area-when-window-is-closed": "Deixar Franz rodando na área de notificações quando a janela é fechada"
 }
